@@ -82,7 +82,7 @@ Escribe un programa que muestre dos matrices de números aleatorios, entre 0 y 9
 Escribe un programa que muestre dos matrices de números aleatorios, entre 0 y 9, de  tamaño NxN. El tamaño es indicado por el usuario y debe ser siempre menor que 8.  Finalmente, se presenta el producto de las dos matrices.
 
 # Guía para la ejecución del proyecto
-Este proyecto cuenta con cuatro archivos que corresponden a:<br> 
+Este proyecto cuenta con cinco archivos que corresponden a:<br> 
 
 *  **taller_lib.c:** Este archivo al ser el módulo de funciones, contendrá el desarrollo de las distintas funciones a usar, pero no estará la función main.<br> 
 
